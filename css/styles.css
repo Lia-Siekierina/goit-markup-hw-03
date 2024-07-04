@@ -181,6 +181,7 @@ img {
   min-width: 169px;
   height: 56px;
   margin: 0 auto;
+  border: none;
 }
 .btn-hero:hover,
 .btn-hero:focus {
